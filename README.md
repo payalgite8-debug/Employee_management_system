@@ -53,4 +53,6 @@ Developed by [Payal Gite]
 
 This project is for educational purposes.
 
+##Clone the repository
+https://github.com/payalgite8-debug/Employee_management_system
 
